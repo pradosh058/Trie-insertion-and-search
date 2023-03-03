@@ -1,1 +1,1 @@
-Code to insert and searching in trie.
+Code for insert and searching in trie.
